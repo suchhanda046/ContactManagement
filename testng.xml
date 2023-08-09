@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="ContactManagement">
         <classes>
-            <class name="contacts.AddContactUsingPOJO">
+            <class name="contacts.TestClass">
 
             </class>
         </classes>
