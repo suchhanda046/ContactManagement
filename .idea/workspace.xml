@@ -5,6 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8f33a54-8076-4dcf-9a1a-2217d329df0b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Contacts/AddContactPayload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Users/AddNewUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/contacts/AddContactUsingPOJO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/contacts/AddContacts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,8 +18,24 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="41850d66-7370-4cf5-be1f-e33dd87f2448" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/example/Users/AddNewUser.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2T3I010SBx86G9IfKRMe757w9f7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -21,11 +43,148 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="TestNG.AddContactUsingPOJO">
+    <configuration name="AddContactUsingPOJO" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ContactManagement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="contacts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="contacts" />
+      <option name="MAIN_CLASS_NAME" value="contacts.AddContactUsingPOJO" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddContactUsingPOJO.verifyAddNewContacts" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ContactManagement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="contacts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="contacts" />
+      <option name="MAIN_CLASS_NAME" value="contacts.AddContactUsingPOJO" />
+      <option name="METHOD_NAME" value="verifyAddNewContacts" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddContacts" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ContactManagement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="contacts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="contacts" />
+      <option name="MAIN_CLASS_NAME" value="contacts.AddContacts" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddContacts.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ContactManagement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="contacts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="contacts" />
+      <option name="MAIN_CLASS_NAME" value="contacts.AddContacts" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddContacts.verifyAddNewContacts" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ContactManagement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="contacts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="contacts" />
+      <option name="MAIN_CLASS_NAME" value="contacts.AddContacts" />
+      <option name="METHOD_NAME" value="verifyAddNewContacts" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testng config" type="TestNG">
+      <module name="ContactManagement" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
+      </extension>
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.testng config" />
+      <item itemvalue="TestNG.AddContactUsingPOJO" />
+      <item itemvalue="TestNG.AddContactUsingPOJO.verifyAddNewContacts" />
+      <item itemvalue="TestNG.AddContacts" />
+      <item itemvalue="TestNG.AddContacts.test" />
+      <item itemvalue="TestNG.AddContacts.verifyAddNewContacts" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.AddContactUsingPOJO" />
+        <item itemvalue="TestNG.AddContactUsingPOJO.verifyAddNewContacts" />
+        <item itemvalue="TestNG.AddContacts.verifyAddNewContacts" />
+        <item itemvalue="TestNG.AddContacts" />
+        <item itemvalue="TestNG.AddContacts.test" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -36,5 +195,91 @@
       <updated>1690265110510</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/DemoPackage/DemoClassNewNew.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/DemoPackage/DemoClassNewNew.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/contacts/AddContacts.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/contacts/AddContacts.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/contacts/AddContacts.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Users/AddNewUser.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/contacts/AddContacts.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Users/AddNewUser.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/contacts/AddContactUsingPOJO.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/contacts/AddContactUsingPOJO.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/contacts/AddContactUsingPOJO.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/contacts/AddContactUsingPOJO.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ContactManagement$AddContacts_verifyAddNewContacts.ic" NAME="AddContacts.verifyAddNewContacts Coverage Results" MODIFIED="1690821120752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>contacts.*</FILTER>
+    </SUITE>
   </component>
 </project>
